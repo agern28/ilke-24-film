@@ -71,7 +71,7 @@ window.CONFIG = {
     {
       title: "Hep Böyle",
       photo: 3,
-      text: "Ve yıllar geçse bile, de cevabım hiç değişmeyecek Sen. Her yaşında, her halinle, her mevsim seninle."
+      text: "Ve yıllar geçse bile, de cevabım hiç değişmeyecek: Sen. Her yaşında, her halinle, her mevsim seninle."
     },
     {
       title: "Yirmi Dört",
